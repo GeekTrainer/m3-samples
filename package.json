@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "botbuilder": "^4.0.0-m3.0",
+    "botbuilder-dialogs": "^4.0.0-m3.0",
+    "restify": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/request": "^2.47.0",
+    "@types/restify": "^5.0.7"
+  }
+}
